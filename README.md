@@ -1,6 +1,6 @@
 <div align="center">
   
-### MACHINE LEARNI CHECKPOINT SYSTEM
+### MACHINE LEARNING CHECKPOINT SYSTEM
 
 ![](https://img.shields.io/badge/Python-3.8-blue)
 ![](https://img.shields.io/badge/LICENSE-MIT-%2300557f)
