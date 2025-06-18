@@ -4,7 +4,6 @@ from checkpoint import CheckpointManager, Checkpoint
 
 
 def test_checkpoint_creation():
-
     checkpoints_dir = "checkpoints"
     os.makedirs(checkpoints_dir, exist_ok=True)
 
